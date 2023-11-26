@@ -2,9 +2,12 @@
 
 ## Description
 
+You can use this application to search for books and save books that you are interested in to your personal collection for future reference
+
 ## Usage
 
-## Installation
+![Screenshot of Application](Assets/BSE21-1.png)
+
 
 ## Your Task
 
